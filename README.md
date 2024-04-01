@@ -42,8 +42,12 @@ I am passionate about software development, travel, and music.
   </<small></i>
 
  
-<div><small><p>
+<div><small>
+<p>
   <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">Linkedin</a>
+</p>
+<p>
+  <a href="https://leetcode.com/DarioCM/">LeetCode</a>
 </p>
 <p>
   <a href="https://www.instagram.com/darkocd/">Instagram</a>
