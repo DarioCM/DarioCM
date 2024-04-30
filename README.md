@@ -10,7 +10,8 @@ I am passionate about software development, travel, and music.
 </h3>
   <i><small><div><ul>
   <li>Full stack projects</li>
-  <li>Java CRUD Rest APIs</li>
+  <li>CRUD APIs with spring boot</li>
+  <li>Reactive REST APIs</li>
   </ul></div></small></i>
 
 <h3 style="color:blue;"><strong>
@@ -18,6 +19,7 @@ I am passionate about software development, travel, and music.
 </h3></strong>
   <i><small><div><ul>
   <li>AWS</li>
+  <li>GraphQL</li>
   <li>Go</li>
   </ul></div></<small></i>
 
