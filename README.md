@@ -56,6 +56,15 @@ I am passionate about software development, travel, and music.
 </p>
 </small></div>
 -->
+<h3 style="color:blue;"><strong>
+- ⚙️ GitHub Analytics 
+</h3></strong>
+<p align="center">
+<a href="https://github.com/DarioCM">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarioCM&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
+</a>
+</p>
 
 <div id="badges" align="center"><small>
   <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">
