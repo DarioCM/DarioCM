@@ -20,6 +20,7 @@ I am passionate about software development, travel, and music.
   <i><small><div><ul>
   <li>AWS</li>
   <li>GraphQL</li>
+  <li>Apache Spark</li>
   <li>Go</li>
   </ul></div></<small></i>
 
@@ -39,6 +40,7 @@ I am passionate about software development, travel, and music.
   <li>Testing Framework - Junit, Mockito, Selenium.</li>
   <li>VCS and Tools - GIT, Github, Gitlab, Jira.</li>
   <li>BuildTool - Maven, Gradle.</li>
+  <li>Streaming Data - Kafka.</li>
   </div>
   </ul>
   </<small></i>
