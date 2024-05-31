@@ -31,20 +31,17 @@ I am passionate about software development, travel, and music.
 </h3></strong>
   <i><small>
   <div><ul>
-  <li>Problem Solving - Data Structures and Algorithm.</li>
-  <li>Java - Core Java, Streams.</li>
-  <li>WebServices - Rest, SOAP </li>
-  <li>Microservices.</li>
-    - API Architecture: RESTful, GraphQL, gRPC, WebSocket      
-  <li>Frameworks - Spring Boot, HibernateJPA.</li>
-  <li>Reactive programming - Webflux.</li>
-  <li>Database- PostgreSQL, Oracle, Mongo.</li> 
-  <li>Infra - Jenkins, Docker, Kubernetes.</li>
-  <li>AWS - AWS Lambdas, Terraform.</li>
-  <li>Testing Framework - Junit, Mockito, Selenium.</li>
-  <li>VCS and Tools - GIT, Github, Gitlab, Jira.</li>
-  <li>BuildTool - Maven, Gradle.</li>
-  <li>Streaming Data - Kafka.</li>
+  <li>Problem Solving: Data Structures and Algorithms</li>
+  <li>Java: Core Java, Streams</li>
+  <li>Web Services: REST, Microservices</li>
+  <li>Frameworks: Spring Boot, Hibernate JPA</li>
+  <li>Reactive Programming: WebFlux</li>
+  <li>Databases: PostgreSQL, Oracle, MongoDB</li>
+  <li>Infrastructure: Jenkins, Docker, Kubernetes</li>
+  <li>AWS: AWS Lambda, Terraform</li>
+  <li>Testing Frameworks: JUnit, Mockito, Selenium</li>
+  <li>Version Control & Tools: Git, GitHub, GitLab, Jira</li>
+  <li>Build Tools: Maven, Gradle</li>
   </div>
   </ul>
   </<small></i>
