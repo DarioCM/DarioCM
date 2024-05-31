@@ -12,6 +12,8 @@ I am passionate about software development, travel, and music.
   <li>Full stack projects</li>
   <li>CRUD APIs with spring boot</li>
   <li>Reactive REST APIs</li>
+  <li>gRPC</li>
+  <li>GraphQL</li>
   </ul></div></small></i>
 
 <h3 style="color:blue;"><strong>
@@ -19,7 +21,7 @@ I am passionate about software development, travel, and music.
 </h3></strong>
   <i><small><div><ul>
   <li>AWS</li>
-  <li>GraphQL</li>
+  <li>GCP</li>
   <li>Apache Spark</li>
   <li>Go</li>
   </ul></div></<small></i>
