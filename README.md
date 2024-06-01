@@ -33,7 +33,8 @@ I am passionate about software development, travel, and music.
   <div><ul>
   <li>Problem Solving: Data Structures and Algorithms</li>
   <li>Java: Core Java, Streams</li>
-  <li>Web Services: REST, Microservices</li>
+  <li>Web Services: REST, SOA</li>
+  <li>Microservices: RESTful, gRPC, WebSocket, graphQL</li>
   <li>Frameworks: Spring Boot, Hibernate JPA</li>
   <li>Reactive Programming: WebFlux</li>
   <li>Databases: PostgreSQL, Oracle, MongoDB</li>
