@@ -27,24 +27,14 @@ I am passionate about software development, travel, and music.
   </ul></div></<small></i>
 
 <h3 style="color:blue;"><strong>
-- ⚡ Key skills and Expertise :
+- 📃 Resume
 </h3></strong>
   <i><small>
   <div><ul>
-  <li>Problem Solving: Data Structures and Algorithms</li>
-  <li>Java: Core Java, Streams</li>
-  <li>Web Services: REST, SOA</li>
-  <li>Microservices: RESTful, gRPC, WebSocket, graphQL</li>
-  <li>Event-Driven Communication: Kafka</li>
-  <li>API Documentation: Swagger, OpenAPI</li>
-  <li>Frameworks: Spring Boot, Hibernate JPA</li>
-  <li>Reactive Programming: WebFlux</li>
-  <li>Databases: PostgreSQL, Oracle, MongoDB</li>
-  <li>Infrastructure: Jenkins, Docker, Kubernetes</li>
-  <li>AWS: AWS Lambda, Terraform</li>
-  <li>Testing Frameworks: JUnit, Mockito, Selenium</li>
-  <li>Version Control & Tools: Git, GitHub, GitLab, Jira</li>
-  <li>Build Tools: Maven, Gradle</li>
+     <a href="https://dariocm.github.io/resumeCV/">
+     <img align="left" src="https://img.shields.io/badge/Resume-Webpage-239120?logo=resume-webpage&logoColor=white" />
+    </a>
+  </ul>
   </div>
   </ul>
   </<small></i>
@@ -62,6 +52,9 @@ I am passionate about software development, travel, and music.
 </p>
 </small></div>
 -->
+
+<br>
+
 <h3 style="color:blue;"><strong>
 - ⚙️ GitHub Analytics 
 </h3></strong>
