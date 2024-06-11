@@ -35,6 +35,7 @@ I am passionate about software development, travel, and music.
   <li>Java: Core Java, Streams</li>
   <li>Web Services: REST, SOA</li>
   <li>Microservices: RESTful, gRPC, WebSocket, graphQL</li>
+  <li>Event-Driven Communication: Kafka</li>
   <li>API Documentation: Swagger, OpenAPI</li>
   <li>Frameworks: Spring Boot, Hibernate JPA</li>
   <li>Reactive Programming: WebFlux</li>
