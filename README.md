@@ -1,34 +1,28 @@
-### Hi there 👋
+# Hi there 👋
 
-I am a Senior Java Software Engineer specializing in Java, Spring, and AWS. 
-I am passionate about software development, travel, and music. 
+### Senior Java Software Engineer
 
-<h3 style="color:blue;">
-<strong>
-- 🔭 I’m currently working on
-</strong>
-</h3>
-  <i><small><div><ul>
-  <li>Full stack projects</li>
-  <li>CRUD APIs with spring boot</li>
-  <li>Reactive REST APIs</li>
-  <li>gRPC</li>
-  <li>GraphQL</li>
-  </ul></div></small></i>
+I'm a seasoned Java Software Engineer with extensive experience in building robust applications using Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing scalable solutions, designing microservices architectures, and optimizing cloud deployments.
 
-<h3 style="color:blue;"><strong>
-- 🌱 I’m currently learning
-</h3></strong>
-  <i><small><div><ul>
-  <li>AWS</li>
-  <li>GCP</li>
-  <li>Apache Spark</li>
-  <li>Go</li>
-  </ul></div></<small></i>
+#### 🔭 I’m currently working on: 
+- Full stack projects
+- CRUD APIs with spring boot
+- Reactive REST APIs
+- gRPC
+- Kafka
 
-<h3 style="color:blue;"><strong>
-- 📃 Resume
-</h3></strong>
+#### 🌱 I’m currently learning:
+- AWS
+- GCP
+- Apache Spark
+- Go
+
+#### 💻 Passion and Interests:
+I'm not just passionate about coding; I also love exploring new places and discovering music from around the world. These interests inspire creativity and innovation in my professional work.
+
+Feel free to check out my repositories and connect with me for collaboration opportunities!
+
+#### 📃 Resume
   <i><small>
   <div><ul>
      <a href="https://dariocm.github.io/resumeCV/">
@@ -38,26 +32,9 @@ I am passionate about software development, travel, and music.
   </div>
   </ul>
   </<small></i>
-
-<!--  
-<div><small>
-<p>
-  <a href="https://www.linkedin.com/in/carlos-dario-casta%C3%B1eda-mendoza-12735925/">Linkedin</a>
-</p>
-<p>
-  <a href="https://leetcode.com/DarioCM/">LeetCode</a>
-</p>
-<p>
-  <a href="https://www.instagram.com/darkocd/">Instagram</a>
-</p>
-</small></div>
--->
-
 <br>
 
-<h3 style="color:blue;"><strong>
-- ⚙️ GitHub Analytics 
-</h3></strong>
+#### ⚙️ GitHub Analytics 
 <p align="center">
 <a href="https://github.com/DarioCM">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarioCM&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
