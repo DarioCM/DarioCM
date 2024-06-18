@@ -57,7 +57,8 @@ Feel free to check out my repositories and connect with me for collaboration opp
   </a></small>
 </div>
 
-
+<br>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DarioCM&label=Profile%20views&color=0e75b6&style=flat" alt="DarioCM" /> </p>
 
 <!--
 **DarioCM/DarioCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
