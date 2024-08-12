@@ -37,7 +37,8 @@ Feel free to check out my repositories and connect with me for collaboration opp
 #### ⚙️ GitHub Analytics 
 <p align="center">
 <a href="https://github.com/DarioCM">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarioCM&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarioCM&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioCM&theme=nord&hide_border=false&langs_count=5" alt="Languages" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarioCM&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
