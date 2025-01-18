@@ -1,26 +1,27 @@
-# Hi there 👋
+# Hi there 👋  
+## Senior Java Software Engineer | Angular | Kotlin Enthusiast  
 
-### Senior Java Software Engineer
+I'm a Senior Java Software Engineer with over 9 years of experience in building scalable, reliable applications using Java, Spring Boot, and cloud platforms like AWS and GCP. I specialize in microservices architectures, high-performance APIs, and cloud-native solutions.  
 
-I'm a seasoned Java Software Engineer with extensive experience in building robust applications using Java, Spring Boot, and cloud services (AWS, GCP). Over the years, I have honed my skills in developing scalable solutions, designing microservices architectures, and optimizing cloud deployments.
+### 🔭 I’m currently working on:  
+- **[GastroTrack Backend](https://github.com/DarioCM/gastrotrack-api)**: A food tracker app to monitor gastritis triggers, built with Spring Boot, PostgreSQL, Redis, and Docker  
+- **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-frontend)**: The Angular-based frontend for GastroTrack, designed to deliver an intuitive and responsive user experience  
+- Learning and applying **Kotlin** in backend development  
+- Developing CRUD APIs and Reactive REST APIs  
+- Microservices and event-driven systems with Kafka and gRPC  
 
-#### 🔭 I’m currently working on: 
-- Full stack projects
-- CRUD APIs with spring boot
-- Reactive REST APIs
-- gRPC
-- Kafka
+### 🌱 I’m currently learning:  
+- Advanced AWS and GCP services for deployment and scaling  
+- Kotlin for backend microservices  
+- Tailwind CSS for building modern, responsive frontends  
+- Enhancing full-stack skills with Angular and Spring Boot  
 
-#### 🌱 I’m currently learning:
-- AWS
-- GCP
-- Apache Spark
-- Go
+### 💻 Passion and Interests:  
+When I’m not coding, I enjoy exploring new places, immersing myself in music from around the world, and finding inspiration through creative pursuits. These passions spark innovation in my work.  
 
-#### 💻 Passion and Interests:
-I'm not just passionate about coding; I also love exploring new places and discovering music from around the world. These interests inspire creativity and innovation in my professional work.
+Feel free to explore my repositories, including **[GastroTrack Backend](https://github.com/DarioCM/gastrotrack-api)** and **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-frontend)**, and connect with me for collaboration opportunities!  
 
-Feel free to check out my repositories and connect with me for collaboration opportunities!
+
 
 #### 📃 Resume
   <i><small>
