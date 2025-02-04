@@ -5,7 +5,7 @@ I'm a Senior Java Software Engineer with over 9 years of experience in building 
 
 ### 🔭 I’m currently working on:  
 - **[GastroTrack Backend](https://github.com/DarioCM/gastrotrack-api)**: A food tracker app to monitor gastritis triggers, built with Spring Boot, PostgreSQL, Redis, and Docker  
-- **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-frontend)**: The Angular-based frontend for GastroTrack, designed to deliver an intuitive and responsive user experience  
+- **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-angular)**: The Angular-based frontend for GastroTrack, designed to deliver an intuitive and responsive user experience  
 - Learning and applying **Kotlin** in backend development  
 - Developing CRUD APIs and Reactive REST APIs  
 - Microservices and event-driven systems with Kafka and gRPC  
@@ -19,7 +19,7 @@ I'm a Senior Java Software Engineer with over 9 years of experience in building 
 ### 💻 Passion and Interests:  
 When I’m not coding, I enjoy exploring new places, immersing myself in music from around the world, and finding inspiration through creative pursuits. These passions spark innovation in my work.  
 
-Feel free to explore my repositories, including **[GastroTrack Backend](https://github.com/DarioCM/gastrotrack-api)** and **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-frontend)**, and connect with me for collaboration opportunities!  
+Feel free to explore my repositories, including **[GastroTrack Backend](https://github.com/DarioCM/gastrotrack-api)** and **[GastroTrack Frontend](https://github.com/DarioCM/gastrotrack-angular)**, and connect with me for collaboration opportunities!  
 
 
 
